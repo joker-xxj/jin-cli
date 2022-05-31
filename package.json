@@ -13,13 +13,15 @@
     "lib"
   ],
   "author": {
-    "name":"joker-xxj",
+    "name":"jin_null",
     "email": "xiangsheng_xxj@163.com"
   },
   "keywords": [
-    "joker-xxj",
+    "vue3",
+    "jin_null",
     "jin",
-    "脚手架"
+    "脚手架",
+    "vite"
   ],
   "license": "MIT",
   "dependencies": {
